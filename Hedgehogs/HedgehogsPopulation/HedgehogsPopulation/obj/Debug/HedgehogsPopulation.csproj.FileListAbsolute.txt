@@ -1,0 +1,7 @@
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\HedgehogsPopulation.exe.config
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\HedgehogsPopulation.exe
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\HedgehogsPopulation.pdb
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\HedgehogsPopulation.csproj.AssemblyReference.cache
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\HedgehogsPopulation.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\HedgehogsPopulation.exe
+C:\Users\Oleksii\source\repos\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\HedgehogsPopulation.pdb
